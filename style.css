@@ -1,0 +1,37 @@
+p{
+	font-family: sans-serif;
+	color: white;
+	font-size: 15px;
+}
+h1{
+	font-family: Lifecraft;
+	color: white;
+}
+h2{
+	font-family: serif;
+	font-weight: bold;
+	color: white;
+}
+body{
+	background-color: #221836;
+	color: white;
+}
+a{
+	color: #2c59de;
+}
+img{
+	border: 25px solid black;
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin-left: 3%;
+	margin-right: auto;
+	width: 25%;
+}
+embed{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
