@@ -6,6 +6,7 @@ p{
 h1{
 	font-family: Lifecraft;
 	color: white;
+	font-weight: normal;
 }
 h2{
 	font-family: serif;
@@ -32,6 +33,24 @@ embed{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: auto;
-	margin-bottom: auto;
+}
+video{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+audio{
+	display: block;
+	margin-left: auto;
+}
+iframe{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
+}
+.rainbow-text {
+	background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+	-webkit-background-clip: text;
+	color: transparent;
 }
